@@ -1,0 +1,1 @@
+# salsanext-adapter
